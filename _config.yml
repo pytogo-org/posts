@@ -1,0 +1,11 @@
+theme: minima
+title: Python Togo Community's blog
+author: 
+  name: Python Togo Community
+  githubuser: pytogo-org
+description: Python Togo is a dynamic community dedicated to fostering Python development in Togo. We provide opportunities for networking, mentorship, and hands-on learning for developers of all levels.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: classic
