@@ -1,5 +1,4 @@
 ---
-layout: home
 title:  Python Togo Community Blog post
 ---
 
