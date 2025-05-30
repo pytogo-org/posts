@@ -1,5 +1,6 @@
 ---
-title:  Python Togo Community : Blog post
+layout: home
+title:  Python Togo Community Blog post
 ---
 
 Empowering Python Developers Join a thriving community of Python enthusiasts in Togo, learn, collaborate, and grow your skills.

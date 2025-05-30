@@ -1,6 +1,41 @@
 ---
-title: Python Software community Togo &#58; Our story
-date: 2025-05-30 02:30:50
+layout: post
+title: "Python Togo Community – Our Story"
+date: 2025-05-30 02:30:50 +0000
+author: Python Togo
+description: "Learn how Python Togo began — a community-driven movement to grow the Python ecosystem in Togo, empower developers, and organize PyCon Togo 2025."
+keywords: "Python Togo, PyCon Togo, Python community, tech community Togo, open source, PyDay Togo, PyCon Africa, developer community, Python programming"
+image: "https://res.cloudinary.com/dvg7vky5o/image/upload/v1744070856/hero_iapsxz.jpg"
+categories: story community about-us
+tags:
+  - story
+  - community
+  - about
+  - pycontg
+  - pychon africa
+  - pyday
+
+# Structured Data for SEO
+schema:
+  "@context": "https://schema.org "
+  "@type": "Article"
+  "headline": "Python Togo Community – Our Story"
+  "description": "The official story of Python Togo, from its origins at PyCon Africa 2024 to organizing PyDay Togo and preparing for PyCon Togo 2025."
+  "image": "https://res.cloudinary.com/dvg7vky5o/image/upload/v1744070856/hero_iapsxz.jpg"
+  "author":
+    {
+      "@type": "Organization",
+      "name": "Python Togo",
+      "url": "https://pytogo.org "
+    }
+  "publisher":
+    {
+      "@type": "Organization",
+      "name": "Python Togo",
+      "logo": { "@type": "ImageObject", "url": "https://www.pytogo.org/assets/images/logo.png" }
+    }
+  "datePublished": "2025-05-30"
+  "dateModified": "2025-05-30"
 ---
 
 # Our Story – How Python Togo Began
@@ -14,7 +49,7 @@ It all started back in 2022 when Wachiou BOURAIMA joined the Microsoft Student A
 
 Attending both local and international events — online and in-person — opened his eyes to what a strong developer community could achieve. While some may say volunteering doesn’t pay, we believe it builds something far more valuable: **growth, knowledge, and connection.**
 
-By 2023, Togo’s tech scene was growing rapidly. Developer communities were emerging across campuses, sparking friendships and collaborations that would lay the groundwork for what was to come. Events like DevFest Lomé, TDevFest, Tech Communities Day, MLSA Togo Meetups, became meeting points for leaders who shared a common dream: building something bigger together.
+By 2023, Togo’s tech scene was growing rapidly. Developer communities were emerging across campuses, sparking friendships and collaborations that would lay the groundwork for what was to come. Events like DevFest Lomé, TDevFest, Tech Communities Day, MLSA Togo Meetups became meeting points for leaders who shared a common dream: building something bigger together.
 
 Then came 2024 — the year everything changed.
 
@@ -22,9 +57,9 @@ Then came 2024 — the year everything changed.
 
 When financial aid applications for PyCon Africa 2024 opened, we saw an opportunity. We shared it widely, and many from Togo applied. Only five received support — but we refused to let that limit us.
 
-So we did what any strong community would do: **we stepped up together.** Some members contributed financially, others reached out through networks. Thanks to Julius Boakey from PyClubs UG/Python Ghana, several of our members received vouchers. For transport and accommodation, we pooled resources so more people could attend.
+So we did what any strong community would do: **we stepped up together.** Some members contributed financially, others reached out through networks. Thanks to Julius Boakey from PyClubs UG / Python Ghana, several of our members received vouchers. For transport and accommodation, we pooled resources so more people could attend.
 
-The result? A life-changing experience in Accra. We met PSF Directors Deb Nicholson, Ex Director David Mertz, Python community founders Many and Michael Young Python Ghana, Kafui Alordo Python Ho, Steve Yonkeu and organizers from around the world Samson Gody, Ditiro Rampate, . And amid the conversations, workshops, and late-night chats, one idea took root:
+The result? A life-changing experience in Accra. We met PSF Directors Deb Nicholson, Ex Director David Mertz, Python community founders Many and Michael Young Python Ghana, Kafui Alordo Python Ho, Steve Yonkeu and organizers from around the world Samson Gody, Ditiro Rampate. And amid the conversations, workshops, and late-night chats, one idea took root:
 
 > Why not bring this energy back home?
 
@@ -129,4 +164,11 @@ Welcome to **Python Togo**.
 Let’s code the future — together. 🐍❤️
 
 ---
-Connect and follow us on [LinkedIn](https://linkedin.com/company/pytogo-togo), [X (Twitter)](https://x.com/pytogo_org), [GitHub](https://github.com/pytogo-org). Kindly like and post your thoughts in the comment section, see you in a future article.
+
+**Connect & Follow Us**  
+
+- [LinkedIn](https://linkedin.com/company/pytogo-togo )  
+- [X (Twitter)](https://x.com/pytogo_org )  
+- [GitHub](https://github.com/pytogo-org )
+
+Kindly like and share your thoughts in the comments below. See you in a future article!
