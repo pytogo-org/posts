@@ -1,6 +1,6 @@
 ---
 title: Python Software community Togo &#58; Our story
-date: 2025-005-30 02:30:50
+date: 2025-05-30 02:30:50
 ---
 
 # Our Story – How Python Togo Began
