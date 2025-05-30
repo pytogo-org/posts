@@ -1,5 +1,5 @@
 ---
-title: Python Software community Togo: Our story
+title: Python Software community Togo &#58; Our story
 date: 2025-04-25
 ---
 
