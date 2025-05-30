@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Python Togo Community – Our Story"
 date: 2025-05-30 02:30:50 +0000
 author: Python Togo
